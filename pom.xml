@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <java.version>8</java.version>
+        <java.version>17</java.version>
         <scala.version>2.13</scala.version>
         <akka.version>2.6.0</akka.version>
         <akka.management.version>1.0.5</akka.management.version>
